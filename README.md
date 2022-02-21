@@ -1,4 +1,5 @@
 Mobile version of OpenBazaar, a decentralized ecommerce protocol.
+
 https://en.wikipedia.org/wiki/OpenBazaar
 
 ## OB1 Native-Bazaar
