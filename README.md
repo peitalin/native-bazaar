@@ -1,8 +1,9 @@
 
+
 ## OB1 Native-Bazaar
 ![banner](./ob1.png)
 
-OB1 mobile app built with react-native.
+Original prototype of the OB1 mobile app built with react-native.
 
 
 ### Setup Instructions:
